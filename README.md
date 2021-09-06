@@ -1,1 +1,3 @@
-# UT-IP-exercise-8-
+ID: U1810069	
+Sec: 001	
+Name: SAFAROV OTAMUROD	
